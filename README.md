@@ -9,3 +9,14 @@
 4.使用方法：编译PVR-Tree.cpp文件后输入需查询的坐标点即可（x、y用空格隔开）
 
 NOTE：B.txt为数据点数据集，共5922条数据
+
+
+1.Effect：This algorithm is mainly used for the closest point query under the n-dimensional space (e.g. map).
+
+2.Development platform：Linux Mint 17.3 Rosa 64 bit、C++、boost.
+
+3.Principle: Voronoi diagram + R-tre. time complexity is O(logn).
+
+4.Usage: Compile PVR-Tree.cpp and input Query point.
+
+NOTE：B.txt is Data point data set and A total of 5922 data.
