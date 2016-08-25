@@ -13,6 +13,9 @@
   NOTE：B.txt为数据点数据集，共5922条数据
 
 
+
+
+
 Explain：
 
   1.Effect：This algorithm is mainly used for the closest point query under the n-dimensional space (e.g. map).
